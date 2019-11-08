@@ -1,4 +1,4 @@
-package com.apporio.apporiologs;
+package com.apporioinfolabs.apporiologs;
 
 import com.apporio.apporiologsystem.ApporioLogsApplication;
 

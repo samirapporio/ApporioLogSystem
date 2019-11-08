@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:name=".MainApplication">
-        <activity android:name=".MainActivity">
+        android:name="com.apporioinfolabs.apporiologs.MainApplication">
+        <activity android:name="com.apporioinfolabs.apporiologs.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

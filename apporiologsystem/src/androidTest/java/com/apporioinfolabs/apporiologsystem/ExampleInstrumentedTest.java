@@ -1,4 +1,4 @@
-package com.apporio.apporiologsystem;
+package com.apporioinfolabs.apporiologsystem;
 
 import android.content.Context;
 

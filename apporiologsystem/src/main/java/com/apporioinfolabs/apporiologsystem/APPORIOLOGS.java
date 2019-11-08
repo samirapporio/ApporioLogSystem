@@ -1,4 +1,4 @@
-package com.apporio.apporiologsystem;
+package com.apporioinfolabs.apporiologsystem;
 
 import com.hypertrack.hyperlog.HyperLog;
 

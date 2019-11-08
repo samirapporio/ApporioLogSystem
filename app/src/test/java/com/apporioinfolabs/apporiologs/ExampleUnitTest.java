@@ -1,4 +1,4 @@
-package com.apporio.apporiologsystem;
+package com.apporioinfolabs.apporiologs;
 
 import org.junit.Test;
 

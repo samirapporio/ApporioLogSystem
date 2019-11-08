@@ -1,4 +1,4 @@
-package com.apporio.apporiologsystem;
+package com.apporioinfolabs.apporiologsystem;
 
 import android.app.Activity;
 import android.app.Application;
@@ -8,9 +8,6 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.util.Log;
 import android.widget.Toast;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 
 import com.androidnetworking.AndroidNetworking;
 import com.androidnetworking.common.Priority;
