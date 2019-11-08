@@ -51,6 +51,7 @@ public class ApporioLogsApplication extends Application implements Application.A
         UNIQUE_NO = Settings.Secure.getString(getContentResolver(), Settings.Secure.ANDROID_ID);
         gson = new GsonBuilder().create();
         super.onCreate();
+        registerActivityLifecycleCallbacks(this);
     }
 
 
